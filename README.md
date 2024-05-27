@@ -54,10 +54,6 @@ This Image Processor Application is a simple GUI-based tool for performing vario
 
 5. Save the processed image by clicking the "Save Image" button.
 
-## Example
-
-![Example Image](images/example.png)
-
 ## License
 
 This project is open-source and available under the MIT License.
