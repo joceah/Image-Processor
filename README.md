@@ -1,4 +1,3 @@
-```markdown
 # Image Processor Application
 
 This Image Processor Application is a simple GUI-based tool for performing various image processing operations using OpenCV and Tkinter. The application allows users to load an image, apply different filters and effects, and save the processed image. The supported operations include convolution, adding noise, applying low-pass and high-pass filters, edge detection, Gaussian filtering, blurring, mosaic effect, resizing, rotating, and a glitch effect.
@@ -59,4 +58,7 @@ This Image Processor Application is a simple GUI-based tool for performing vario
 
 ![Example Image](images/example.png)
 
-```
+## License
+
+This project is open-source and available under the MIT License.
+
