@@ -43,7 +43,7 @@ This Image Processor Application is a simple GUI-based tool for performing vario
 
 1. Run the application:
    ```bash
-   python image_processor.py
+   python gui.py
    ```
 
 2. Load an image by clicking the "Choose Image" button.
